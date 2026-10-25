@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sumit Tripathy — Full Stack Engineer</title>
+  <desc id="desc">A red and blue Spider-Verse-inspired abstract banner with original web lines and a stylized spider mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset="0.52" stop-color="#101729"/>
+      <stop offset="1" stop-color="#071C39"/>
+    </linearGradient>
+    <linearGradient id="redblue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF334A"/>
+      <stop offset="0.5" stop-color="#E62429"/>
+      <stop offset="1" stop-color="#1F83FF"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.25" fill="#DAE8FF" opacity=".16"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="300" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <path d="M0 0H530L210 300H0Z" fill="#E62429" opacity=".10"/>
+    <path d="M1200 0H880L1200 300Z" fill="#1682FF" opacity=".16"/>
+    <g stroke="#B7D7FF" stroke-width="1.15" opacity=".23" fill="none">
+      <path d="M1200 0L920 150L1200 300M1200 0L830 0L920 150L830 300L1200 300M1200 60L1000 150L1200 240M1200 115L1085 150L1200 185"/>
+      <path d="M830 0Q900 150 830 300M880 0Q960 150 880 300M940 0Q1020 150 940 300M1000 0Q1080 150 1000 300M1060 0Q1140 150 1060 300"/>
+      <path d="M0 0L190 150L0 300M0 60L120 150L0 240M0 0H330L190 150L330 300H0M0 115L75 150L0 185"/>
+      <path d="M330 0Q250 150 330 300M280 0Q200 150 280 300M220 0Q140 150 220 300"/>
+    </g>
+    <path d="M64 254L64 270L330 270" fill="none" stroke="url(#redblue)" stroke-width="4" stroke-linecap="round"/>
+    <rect x="64" y="42" width="10" height="10" rx="2" fill="#FF334A"/>
+    <text x="92" y="51" fill="#FF6675" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">THE DEVELOPER BEHIND THE MASK</text>
+    <text x="60" y="137" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="900" letter-spacing="-1.5">SUMIT TRIPATHY</text>
+    <text x="64" y="180" fill="#C7D5EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="2">FULL-STACK ENGINEER</text>
+    <text x="64" y="215" fill="#A9B9D0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Java 21 · Spring Boot · React · TypeScript · Distributed Systems</text>
+    <g transform="translate(985 150)">
+      <circle r="95" fill="#0A1221" stroke="url(#redblue)" stroke-width="3"/>
+      <circle r="80" fill="none" stroke="#E62429" stroke-width="1.2" opacity=".55"/>
+      <circle r="65" fill="none" stroke="#398AFF" stroke-width="1.2" opacity=".55"/>
+      <g stroke="#D8E6FF" stroke-width="1.3" opacity=".65" fill="none">
+        <path d="M-90 0H90M0-90V90M-64-64L64 64M64-64L-64 64"/>
+        <path d="M-80-40L0 0L80-40M-80 40L0 0L80 40M-40-80L0 0L40 80M40-80L0 0L-40 80"/>
+      </g>
+      <g fill="#F7FAFF" stroke="#E62429" stroke-width="2" stroke-linejoin="round">
+        <ellipse cx="0" cy="-2" rx="13" ry="25"/>
+        <circle cx="0" cy="-27" r="11"/>
+        <path d="M-7-11L-32-30L-48-53L-53-48L-44-22L-14 4Z"/>
+        <path d="M7-11L32-30L48-53L53-48L44-22L14 4Z"/>
+        <path d="M-9-2L-37 1L-58-12L-61-6L-43 13L-12 12Z"/>
+        <path d="M9-2L37 1L58-12L61-6L43 13L12 12Z"/>
+        <path d="M-8 10L-28 30L-37 53L-31 56L-16 38L0 18Z"/>
+        <path d="M8 10L28 30L37 53L31 56L16 38L0 18Z"/>
+      </g>
+      <path d="M-6-31L-2-25L-7-20M6-31L2-25L7-20" stroke="#111827" stroke-width="1.5" fill="none"/>
+    </g>
+    <text x="1135" y="275" text-anchor="end" fill="#B7C7DF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">BUILD · TEST · SHIP</text>
+  </g>
+</svg>

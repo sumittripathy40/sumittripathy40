@@ -96,12 +96,12 @@ A full-stack e-commerce system organized around Auth, Order, Inventory, Notifica
 
 ### 🌐 Portfolio Website
 My personal portfolio, live on Netlify.  
-`HTML` · `CSS`  
+`HTML` · `CSS` , `JavaScript` ,  `React Js`
 [Live site](https://sumittripathy.netlify.app/) · [Source code](https://github.com/sumittripathy40/My-Portfolio)
 
 ### 🎬 Netflix Landing Page Clone
 A front-end recreation of the Netflix landing page: hero section, feature highlights, FAQ layout, and footer.  
-`HTML` · `CSS`  
+`HTML` · `CSS` , `JavaScript` ,  `React Js`
 [Live demo](https://sumittripathy40.github.io/NETFLIX-CLONE/) · [Source code](https://github.com/sumittripathy40/NETFLIX-CLONE)
 
 <details>
